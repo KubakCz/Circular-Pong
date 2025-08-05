@@ -1,0 +1,14 @@
+add_library(math_library
+    "vector.hpp"
+    "vector.cpp"
+    "mat4.hpp"
+    "mat4.cpp"
+    "polar.hpp"
+    "polar.cpp"
+    "quaternion.hpp"
+    "quaternion.cpp"
+    "axisAngle.hpp"
+    "axisAngle.cpp"
+    "cartesian.hpp"
+    "cartesian.cpp"
+    )
