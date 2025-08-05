@@ -11,10 +11,10 @@ The game itself is a twist on classic Pong: instead of a linear layout, the bric
 
 ## Project Files
 
-The game was developed inside a framework made specifically for OpenGL courses at FI MUNI.
-This repository contains only source files written by me (Jakub Slezáček)
-for the actuall game and therefore can not be build into a runnable file. 
-Nevertheless, the repository contains all the important code for the actuall game.
+The game was developed within a framework created specifically for OpenGL courses at FI MUNI.
+This repository contains only the source files written by me (Jakub Slezáček) 
+for the actual game and therefore cannot be built into a runnable file. 
+Nevertheless, the repository contains all the important code for the actual game.
 
 In this repo you will find:
 
